@@ -1,0 +1,503 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<fruitsList>
+  <fruit id="1">
+    <safety>1</safety>
+    <spotSize>32</spotSize>
+    <spikeLength>65</spikeLength>
+  </fruit>
+  <fruit id="2">
+    <safety>0</safety>
+    <spotSize>79</spotSize>
+    <spikeLength>58</spikeLength>
+  </fruit>
+  <fruit id="3">
+    <safety>0</safety>
+    <spotSize>75</spotSize>
+    <spikeLength>32</spikeLength>
+  </fruit>
+  <fruit id="4">
+    <safety>0</safety>
+    <spotSize>99</spotSize>
+    <spikeLength>37</spikeLength>
+  </fruit>
+  <fruit id="5">
+    <safety>0</safety>
+    <spotSize>46</spotSize>
+    <spikeLength>94</spikeLength>
+  </fruit>
+  <fruit id="6">
+    <safety>0</safety>
+    <spotSize>98</spotSize>
+    <spikeLength>14</spikeLength>
+  </fruit>
+  <fruit id="7">
+    <safety>1</safety>
+    <spotSize>92</spotSize>
+    <spikeLength>6</spikeLength>
+  </fruit>
+  <fruit id="8">
+    <safety>0</safety>
+    <spotSize>100</spotSize>
+    <spikeLength>97</spikeLength>
+  </fruit>
+  <fruit id="9">
+    <safety>1</safety>
+    <spotSize>13</spotSize>
+    <spikeLength>71</spikeLength>
+  </fruit>
+  <fruit id="10">
+    <safety>0</safety>
+    <spotSize>89</spotSize>
+    <spikeLength>15</spikeLength>
+  </fruit>
+  <fruit id="11">
+    <safety>1</safety>
+    <spotSize>9</spotSize>
+    <spikeLength>54</spikeLength>
+  </fruit>
+  <fruit id="12">
+    <safety>0</safety>
+    <spotSize>38</spotSize>
+    <spikeLength>76</spikeLength>
+  </fruit>
+  <fruit id="13">
+    <safety>0</safety>
+    <spotSize>51</spotSize>
+    <spikeLength>78</spikeLength>
+  </fruit>
+  <fruit id="14">
+    <safety>1</safety>
+    <spotSize>5</spotSize>
+    <spikeLength>57</spikeLength>
+  </fruit>
+  <fruit id="15">
+    <safety>0</safety>
+    <spotSize>34</spotSize>
+    <spikeLength>91</spikeLength>
+  </fruit>
+  <fruit id="16">
+    <safety>1</safety>
+    <spotSize>36</spotSize>
+    <spikeLength>49</spikeLength>
+  </fruit>
+  <fruit id="17">
+    <safety>0</safety>
+    <spotSize>90</spotSize>
+    <spikeLength>19</spikeLength>
+  </fruit>
+  <fruit id="18">
+    <safety>1</safety>
+    <spotSize>11</spotSize>
+    <spikeLength>44</spikeLength>
+  </fruit>
+  <fruit id="19">
+    <safety>0</safety>
+    <spotSize>71</spotSize>
+    <spikeLength>34</spikeLength>
+  </fruit>
+  <fruit id="20">
+    <safety>1</safety>
+    <spotSize>1</spotSize>
+    <spikeLength>46</spikeLength>
+  </fruit>
+  <fruit id="21">
+    <safety>0</safety>
+    <spotSize>70</spotSize>
+    <spikeLength>67</spikeLength>
+  </fruit>
+  <fruit id="22">
+    <safety>0</safety>
+    <spotSize>26</spotSize>
+    <spikeLength>81</spikeLength>
+  </fruit>
+  <fruit id="23">
+    <safety>1</safety>
+    <spotSize>43</spotSize>
+    <spikeLength>24</spikeLength>
+  </fruit>
+  <fruit id="24">
+    <safety>0</safety>
+    <spotSize>68</spotSize>
+    <spikeLength>92</spikeLength>
+  </fruit>
+  <fruit id="25">
+    <safety>1</safety>
+    <spotSize>58</spotSize>
+    <spikeLength>1</spikeLength>
+  </fruit>
+  <fruit id="26">
+    <safety>1</safety>
+    <spotSize>19</spotSize>
+    <spikeLength>73</spikeLength>
+  </fruit>
+  <fruit id="27">
+    <safety>0</safety>
+    <spotSize>72</spotSize>
+    <spikeLength>72</spikeLength>
+  </fruit>
+  <fruit id="28">
+    <safety>1</safety>
+    <spotSize>76</spotSize>
+    <spikeLength>3</spikeLength>
+  </fruit>
+  <fruit id="29">
+    <safety>0</safety>
+    <spotSize>83</spotSize>
+    <spikeLength>41</spikeLength>
+  </fruit>
+  <fruit id="30">
+    <safety>1</safety>
+    <spotSize>50</spotSize>
+    <spikeLength>5</spikeLength>
+  </fruit>
+  <fruit id="31">
+    <safety>0</safety>
+    <spotSize>31</spotSize>
+    <spikeLength>90</spikeLength>
+  </fruit>
+  <fruit id="32">
+    <safety>0</safety>
+    <spotSize>78</spotSize>
+    <spikeLength>26</spikeLength>
+  </fruit>
+  <fruit id="33">
+    <safety>1</safety>
+    <spotSize>37</spotSize>
+    <spikeLength>48</spikeLength>
+  </fruit>
+  <fruit id="34">
+    <safety>1</safety>
+    <spotSize>57</spotSize>
+    <spikeLength>25</spikeLength>
+  </fruit>
+  <fruit id="35">
+    <safety>1</safety>
+    <spotSize>59</spotSize>
+    <spikeLength>28</spikeLength>
+  </fruit>
+  <fruit id="36">
+    <safety>0</safety>
+    <spotSize>60</spotSize>
+    <spikeLength>50</spikeLength>
+  </fruit>
+  <fruit id="37">
+    <safety>0</safety>
+    <spotSize>91</spotSize>
+    <spikeLength>79</spikeLength>
+  </fruit>
+  <fruit id="38">
+    <safety>1</safety>
+    <spotSize>17</spotSize>
+    <spikeLength>45</spikeLength>
+  </fruit>
+  <fruit id="39">
+    <safety>1</safety>
+    <spotSize>64</spotSize>
+    <spikeLength>4</spikeLength>
+  </fruit>
+  <fruit id="40">
+    <safety>1</safety>
+    <spotSize>54</spotSize>
+    <spikeLength>12</spikeLength>
+  </fruit>
+  <fruit id="41">
+    <safety>0</safety>
+    <spotSize>94</spotSize>
+    <spikeLength>29</spikeLength>
+  </fruit>
+  <fruit id="42">
+    <safety>1</safety>
+    <spotSize>6</spotSize>
+    <spikeLength>17</spikeLength>
+  </fruit>
+  <fruit id="43">
+    <safety>1</safety>
+    <spotSize>29</spotSize>
+    <spikeLength>68</spikeLength>
+  </fruit>
+  <fruit id="44">
+    <safety>0</safety>
+    <spotSize>63</spotSize>
+    <spikeLength>86</spikeLength>
+  </fruit>
+  <fruit id="45">
+    <safety>0</safety>
+    <spotSize>16</spotSize>
+    <spikeLength>95</spikeLength>
+  </fruit>
+  <fruit id="46">
+    <safety>1</safety>
+    <spotSize>4</spotSize>
+    <spikeLength>16</spikeLength>
+  </fruit>
+  <fruit id="47">
+    <safety>0</safety>
+    <spotSize>74</spotSize>
+    <spikeLength>82</spikeLength>
+  </fruit>
+  <fruit id="48">
+    <safety>0</safety>
+    <spotSize>45</spotSize>
+    <spikeLength>62</spikeLength>
+  </fruit>
+  <fruit id="49">
+    <safety>0</safety>
+    <spotSize>88</spotSize>
+    <spikeLength>83</spikeLength>
+  </fruit>
+  <fruit id="50">
+    <safety>1</safety>
+    <spotSize>25</spotSize>
+    <spikeLength>2</spikeLength>
+  </fruit>
+  <fruit id="51">
+    <safety>0</safety>
+    <spotSize>95</spotSize>
+    <spikeLength>21</spikeLength>
+  </fruit>
+  <fruit id="52">
+    <safety>0</safety>
+    <spotSize>69</spotSize>
+    <spikeLength>84</spikeLength>
+  </fruit>
+  <fruit id="53">
+    <safety>0</safety>
+    <spotSize>85</spotSize>
+    <spikeLength>30</spikeLength>
+  </fruit>
+  <fruit id="54">
+    <safety>0</safety>
+    <spotSize>66</spotSize>
+    <spikeLength>75</spikeLength>
+  </fruit>
+  <fruit id="55">
+    <safety>0</safety>
+    <spotSize>84</spotSize>
+    <spikeLength>36</spikeLength>
+  </fruit>
+  <fruit id="56">
+    <safety>0</safety>
+    <spotSize>62</spotSize>
+    <spikeLength>56</spikeLength>
+  </fruit>
+  <fruit id="57">
+    <safety>1</safety>
+    <spotSize>81</spotSize>
+    <spikeLength>18</spikeLength>
+  </fruit>
+  <fruit id="58">
+    <safety>1</safety>
+    <spotSize>39</spotSize>
+    <spikeLength>40</spikeLength>
+  </fruit>
+  <fruit id="59">
+    <safety>1</safety>
+    <spotSize>3</spotSize>
+    <spikeLength>8</spikeLength>
+  </fruit>
+  <fruit id="60">
+    <safety>0</safety>
+    <spotSize>96</spotSize>
+    <spikeLength>9</spikeLength>
+  </fruit>
+  <fruit id="61">
+    <safety>1</safety>
+    <spotSize>65</spotSize>
+    <spikeLength>10</spikeLength>
+  </fruit>
+  <fruit id="62">
+    <safety>0</safety>
+    <spotSize>42</spotSize>
+    <spikeLength>66</spikeLength>
+  </fruit>
+  <fruit id="63">
+    <safety>0</safety>
+    <spotSize>49</spotSize>
+    <spikeLength>77</spikeLength>
+  </fruit>
+  <fruit id="64">
+    <safety>1</safety>
+    <spotSize>48</spotSize>
+    <spikeLength>43</spikeLength>
+  </fruit>
+  <fruit id="65">
+    <safety>1</safety>
+    <spotSize>15</spotSize>
+    <spikeLength>74</spikeLength>
+  </fruit>
+  <fruit id="66">
+    <safety>0</safety>
+    <spotSize>18</spotSize>
+    <spikeLength>99</spikeLength>
+  </fruit>
+  <fruit id="67">
+    <safety>1</safety>
+    <spotSize>52</spotSize>
+    <spikeLength>22</spikeLength>
+  </fruit>
+  <fruit id="68">
+    <safety>0</safety>
+    <spotSize>14</spotSize>
+    <spikeLength>98</spikeLength>
+  </fruit>
+  <fruit id="69">
+    <safety>1</safety>
+    <spotSize>35</spotSize>
+    <spikeLength>35</spikeLength>
+  </fruit>
+  <fruit id="70">
+    <safety>1</safety>
+    <spotSize>30</spotSize>
+    <spikeLength>33</spikeLength>
+  </fruit>
+  <fruit id="71">
+    <safety>1</safety>
+    <spotSize>20</spotSize>
+    <spikeLength>11</spikeLength>
+  </fruit>
+  <fruit id="72">
+    <safety>0</safety>
+    <spotSize>77</spotSize>
+    <spikeLength>87</spikeLength>
+  </fruit>
+  <fruit id="73">
+    <safety>0</safety>
+    <spotSize>47</spotSize>
+    <spikeLength>64</spikeLength>
+  </fruit>
+  <fruit id="74">
+    <safety>0</safety>
+    <spotSize>41</spotSize>
+    <spikeLength>61</spikeLength>
+  </fruit>
+  <fruit id="75">
+    <safety>0</safety>
+    <spotSize>67</spotSize>
+    <spikeLength>100</spikeLength>
+  </fruit>
+  <fruit id="76">
+    <safety>0</safety>
+    <spotSize>86</spotSize>
+    <spikeLength>88</spikeLength>
+  </fruit>
+  <fruit id="77">
+    <safety>1</safety>
+    <spotSize>22</spotSize>
+    <spikeLength>7</spikeLength>
+  </fruit>
+  <fruit id="78">
+    <safety>0</safety>
+    <spotSize>80</spotSize>
+    <spikeLength>52</spikeLength>
+  </fruit>
+  <fruit id="79">
+    <safety>1</safety>
+    <spotSize>55</spotSize>
+    <spikeLength>38</spikeLength>
+  </fruit>
+  <fruit id="80">
+    <safety>1</safety>
+    <spotSize>7</spotSize>
+    <spikeLength>69</spikeLength>
+  </fruit>
+  <fruit id="81">
+    <safety>0</safety>
+    <spotSize>28</spotSize>
+    <spikeLength>80</spikeLength>
+  </fruit>
+  <fruit id="82">
+    <safety>1</safety>
+    <spotSize>23</spotSize>
+    <spikeLength>39</spikeLength>
+  </fruit>
+  <fruit id="83">
+    <safety>0</safety>
+    <spotSize>44</spotSize>
+    <spikeLength>96</spikeLength>
+  </fruit>
+  <fruit id="84">
+    <safety>1</safety>
+    <spotSize>8</spotSize>
+    <spikeLength>53</spikeLength>
+  </fruit>
+  <fruit id="85">
+    <safety>0</safety>
+    <spotSize>24</spotSize>
+    <spikeLength>89</spikeLength>
+  </fruit>
+  <fruit id="86">
+    <safety>1</safety>
+    <spotSize>2</spotSize>
+    <spikeLength>59</spikeLength>
+  </fruit>
+  <fruit id="87">
+    <safety>1</safety>
+    <spotSize>21</spotSize>
+    <spikeLength>20</spikeLength>
+  </fruit>
+  <fruit id="88">
+    <safety>1</safety>
+    <spotSize>12</spotSize>
+    <spikeLength>31</spikeLength>
+  </fruit>
+  <fruit id="89">
+    <safety>1</safety>
+    <spotSize>33</spotSize>
+    <spikeLength>23</spikeLength>
+  </fruit>
+  <fruit id="90">
+    <safety>0</safety>
+    <spotSize>53</spotSize>
+    <spikeLength>51</spikeLength>
+  </fruit>
+  <fruit id="91">
+    <safety>0</safety>
+    <spotSize>87</spotSize>
+    <spikeLength>93</spikeLength>
+  </fruit>
+  <fruit id="92">
+    <safety>0</safety>
+    <spotSize>73</spotSize>
+    <spikeLength>70</spikeLength>
+  </fruit>
+  <fruit id="93">
+    <safety>0</safety>
+    <spotSize>82</spotSize>
+    <spikeLength>55</spikeLength>
+  </fruit>
+  <fruit id="94">
+    <safety>0</safety>
+    <spotSize>40</spotSize>
+    <spikeLength>85</spikeLength>
+  </fruit>
+  <fruit id="95">
+    <safety>0</safety>
+    <spotSize>61</spotSize>
+    <spikeLength>60</spikeLength>
+  </fruit>
+  <fruit id="96">
+    <safety>0</safety>
+    <spotSize>93</spotSize>
+    <spikeLength>42</spikeLength>
+  </fruit>
+  <fruit id="97">
+    <safety>1</safety>
+    <spotSize>10</spotSize>
+    <spikeLength>13</spikeLength>
+  </fruit>
+  <fruit id="98">
+    <safety>0</safety>
+    <spotSize>56</spotSize>
+    <spikeLength>47</spikeLength>
+  </fruit>
+  <fruit id="99">
+    <safety>0</safety>
+    <spotSize>97</spotSize>
+    <spikeLength>27</spikeLength>
+  </fruit>
+  <fruit id="100">
+    <safety>1</safety>
+    <spotSize>27</spotSize>
+    <spikeLength>63</spikeLength>
+  </fruit>
+</fruitsList>
